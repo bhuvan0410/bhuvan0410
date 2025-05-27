@@ -10,9 +10,8 @@
 ---
 
 ### 🧑‍💻 About Me
-- 🎓 Studied at KIIT University  
-- 🔨 I build scalable full-stack applications & data pipelines
-- 🔨 Also work on QA
+- 🎓 Final-year CSE student at KIIT University  
+- 🔨 I build scalable full-stack applications, QA pipelines & data tools  
 - 🤝 Collaborated in national hackathons & internships  
 - 📫 Reach me at: **bhuvanpagilla@gmail.com**
 
@@ -27,35 +26,43 @@ Backend:      Node.js, Express.js, REST APIs
 Databases:    MySQL, MongoDB
 Tools:        Git, GitHub, Postman, Playwright, Cucumber, VS Code
 Concepts:     DSA, OOP, DBMS, System Design, Agile, Cloud
+```
+---
+
+ ### 🚀 Projects
+- **Personal Task Dashboard** – Full-stack task manager with JWT auth, dark mode, charts  
+  _Tech_: React, Node.js, PostgreSQL
+
+- **Math Agent** – RAG-based problem solver using Groq, FAISS, feedback UI  
+  _Tech_: Python, LangChain, Streamlit
+
+- **Myntra Scraper** – Java-based price tracker with Playwright automation  
+  _Tech_: Java, MySQL, Playwright
+
+- **Real Estate Platform** – MERN stack real estate listings with JWT auth  
+  _Tech_: React, Node.js, MongoDB
+
 
 ---
 
-🚀 Projects
-Project	Description	Tech
-Personal Task Dashboard	Full-stack task manager with JWT auth, dark mode, charts	React, Node.js, PostgreSQL
-Math Agent	RAG-based problem solver using Groq, FAISS, feedback UI	Python, LangChain, Streamlit
-Myntra Scraper	Java-based price tracker with Playwright automation	Java, MySQL, Playwright
-[Real Estate Platform]	MERN stack real estate listings with JWT auth	React, Node, MongoDB
+### 🏆 Achievements
 
----
-
-🏆 Achievements
 🥇 Finalist – HumanAIze Hackathon (Top 104/2000+ teams)
 
 🔗 Blockchain Intern – Timechain Labs (Built secure smart contract APIs)
 
 💻 MERN Stack Intern – Web Stack Academy
+
 ---
-📈 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=bhuvan0410&show_icons=true&theme=radical" alt="Bhuvan's GitHub stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhuvan0410&layout=compact&theme=radical" /> </p>
 
-⚡ Fun Facts
-🌶️ I love turning chaotic ideas into structured code.
+### ⚡ Fun Facts
 
-🧩 I solve problems like puzzles—one logical piece at a time.
+🌶️ I love turning chaotic ideas into structured code
 
-🕹️ Gaming & AI = my relaxation formula.
+🧩 I solve problems like puzzles—one logical piece at a time
+
+🕹️ Gaming & AI = my relaxation formula
 
 🧭 “Code is like humor. When you have to explain it, it’s bad.” — Cory House
-
+---
 <p align="center">✨ Let's build something amazing together!</p> ```
