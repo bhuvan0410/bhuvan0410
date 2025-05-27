@@ -28,6 +28,7 @@ Databases:    MySQL, MongoDB
 Tools:        Git, GitHub, Postman, Playwright, Cucumber, VS Code
 Concepts:     DSA, OOP, DBMS, System Design, Agile, Cloud
 
+---
 
 🚀 Projects
 Project	Description	Tech
@@ -36,15 +37,18 @@ Math Agent	RAG-based problem solver using Groq, FAISS, feedback UI	Python, LangC
 Myntra Scraper	Java-based price tracker with Playwright automation	Java, MySQL, Playwright
 [Real Estate Platform]	MERN stack real estate listings with JWT auth	React, Node, MongoDB
 
+---
+
 🏆 Achievements
 🥇 Finalist – HumanAIze Hackathon (Top 104/2000+ teams)
 
 🔗 Blockchain Intern – Timechain Labs (Built secure smart contract APIs)
 
 💻 MERN Stack Intern – Web Stack Academy
-
+---
 📈 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=bhuvan0410&show_icons=true&theme=radical" alt="Bhuvan's GitHub stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhuvan0410&layout=compact&theme=radical" /> </p>
+
 ⚡ Fun Facts
 🌶️ I love turning chaotic ideas into structured code.
 
